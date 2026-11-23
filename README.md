@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ----PROYECTO DIDÁCTICO DE DESARROLLO SEGURO----
 
 A continuación se presenta un ejercicio didáctico resuelto en materia de desarrollo
@@ -15,6 +14,3 @@ El fin de este documento, en última instancia, es el aprendizaje y la consolida
 herramientas de análisis y detección de amenazas, destacando el uso de OWASP ZAP, OWASP
 TOP10, métodos de clasificación (DREAD, STRIDE...) y uso de herramientas de detección y 
 explotación (proxys, repeaters, intruders...) de la propia OWASP ZAP y de forma manual.
-=======
-# project_desarrollo_seguro
->>>>>>> df8043b2f260c5e2a825ac3c27b8f4d0b81ba43a
